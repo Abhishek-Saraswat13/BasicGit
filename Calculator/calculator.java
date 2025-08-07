@@ -42,5 +42,7 @@ public class Calculator {
 
         System.out.println("Result: " + result);
         scanner.close();
+
+        // ye Abhishek ne kiya hai
     }
 }
